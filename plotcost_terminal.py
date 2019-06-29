@@ -1,6 +1,3 @@
-# 60aria - 2100
-# 90aria - 1500
-
 import os, PyPDF2
 
 path = './files'
